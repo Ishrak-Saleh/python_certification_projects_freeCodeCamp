@@ -18,3 +18,8 @@ Visit the freeCodeCamp website for more information about the certification curr
 https://www.freecodecamp.org/learn/
 
 For contact: ischy2003@gmail.com
+
+### Project-01: User Configuration Manager
+**Date Completed:** 2026-03-03
+This Python project is created to manage user settings with functions to add, update, delete, and view settings.  
+All keys and values are standardized for consistency. Check the *user_config_manager.py* more information.
