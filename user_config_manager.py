@@ -65,7 +65,8 @@ def view_settings(settings_dict):
 
 test_settings = {'theme': 'dark', 'notifications': 'enabled', 'volume': 'high'}
 
-"""#Testing the functions with the provided test_settings dictionary
+"""
+#Testing the functions with the provided test_settings dictionary
 print(add_setting(test_settings, ('Language', 'English')))
 print(add_setting(test_settings, ('theme', 'light')))
 print(update_setting(test_settings, ('volume', 'medium')))
