@@ -5,7 +5,7 @@ I have created this repository to keep my solutions that are part of the freeCod
 
 The goal of this repository is to demostrate the foundational concepts of Python through my structured problem-solving approach and understanding.
 
-##Purpose of this repository
+## Purpose of this repository
 These projects are based on the certification requirements predefined on the freeCodeCamp website. I didn't modified any requirements but I focused on:
 - Writing clean and readable functions
 - Maintaining consisten formatting
